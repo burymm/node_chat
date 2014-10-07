@@ -1,0 +1,9 @@
+.own {
+  color: #0c0;
+}
+.enemy {
+  color: #c00;
+}
+.chat {
+  list-style-type: none;
+}
